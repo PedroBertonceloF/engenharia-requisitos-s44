@@ -29,6 +29,7 @@ As histórias de usuário são cadastradas individualmente como **GitHub Issues*
 
 Documentos de apoio:
 - [`BACKLOG.md`](BACKLOG.md) — resumo consolidado das histórias e prioridades;
+- [`QUADRO_BACKLOG.md`](QUADRO_BACKLOG.md) — quadro visual público (estático) em três colunas;
 - [`RASTREABILIDADE.md`](RASTREABILIDADE.md) — relação entre histórias, RFs e casos de uso.
 
 ## Convenção de status
@@ -38,6 +39,8 @@ Todas as histórias iniciam em **A Fazer (To Do)**. No GitHub, isso corresponde 
 ## Priorização
 
 Foi utilizada a técnica **MoSCoW**, complementada pela indicação de prioridade Alta, Média ou Baixa.
+
+O quadro é estático: não substitui um **GitHub Projects** nativo, que requer autorização adicional com escopo Projects.
 
 ## Observação acadêmica
 
