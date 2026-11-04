@@ -9,6 +9,8 @@ Foi utilizada **MoSCoW**:
 - **Should**: importante para qualidade, governança ou evolução do produto, mas não bloqueia o fluxo básico;
 - **Could**: desejável, porém pode ser simplificado ou adiado no primeiro experimento.
 
+Quadro visual: [`QUADRO_BACKLOG.md`](QUADRO_BACKLOG.md) (versão estática); [Issues públicas](https://github.com/TeoZ08/engenharia-requisitos-s44/issues).
+
 ## Histórias de usuário
 
 | ID | História | Prioridade | MoSCoW | MVP | Status | Issue |
