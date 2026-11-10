@@ -12,8 +12,9 @@ Versão estática do quadro de acompanhamento das histórias de usuário. Cada c
 | [US06 — Manter categorias e conteúdo](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/6) | | |
 | [US07 — Monitorar filas e indicadores](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/7) | | |
 | [US08 — Gerenciar usuários e perfis](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/8) | | |
+| [US09 — Escalonar ao supervisor](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/9) | | |
 
-> O quadro registra o estado inicial do projeto acadêmico. Ele **não é um GitHub Project dinâmico**: movimentos de estado devem ser refletidos aqui e nas respectivas Issues. A criação de um GitHub Project nativo depende de acesso com escopo Projects.
+> O quadro registra o estado inicial do projeto acadêmico. Ele **não é um GitHub Project dinâmico**: movimentos de estado devem ser refletidos aqui e nas respectivas Issues.
 
 ## Links
 
